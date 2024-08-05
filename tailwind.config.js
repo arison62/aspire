@@ -12,7 +12,7 @@ export default {
       colors : {
         'primaryColor': '#0F0049',
         'secondaryColor': '#0A85EA',
-        'accentColor': 'F63A61'
+        'accentColor': '#F63A61'
       }
     },
   },

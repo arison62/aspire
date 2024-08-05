@@ -12,10 +12,14 @@
   scroll-behavior: smooth;
 }
 
+:root {
+  --header-height: 70px;
+}
+
 @layer components {
   
   .max-container {
-    @apply mx-auto max-wide:px-5 py-8 max-w-wide;
+    @apply mx-auto max-wide:px-5 max-w-screen-wide;
   }
 }
 
