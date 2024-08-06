@@ -3,7 +3,7 @@ import confImg from "../assets/Rectangle 21.png";
 
 const AboutUs = () => {
   return (
-    <div className="bg-secondaryColor mt-28">
+    <div className="bg-secondaryColor mt-28 pb-20">
       <div className="pt-28 w-fit mx-auto max-container">
         <div className="flex flex-wrap">
           <div className="max-w-md flex flex-col gap-12">

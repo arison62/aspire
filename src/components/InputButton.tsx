@@ -1,6 +1,6 @@
 const InputButton = () => {
   return (
-    <div className="rounded-full p-2  w-full shadow-md">
+    <div className="bg-white rounded-full p-2  w-full shadow-md">
       <form action="" className="flex justify-between">
         <input type="email" placeholder="Enter your email" 
         className="grow outline-none pl-2" />
