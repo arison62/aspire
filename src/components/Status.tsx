@@ -6,8 +6,8 @@ const Status = () => {
     <div className="mt-28">
       <div className="max-container">
         <p
-          className="text-6xl text-primaryColor 
-        font-medium max-w-4xl text-center mx-auto"
+          className="text-5xl sm:text-6xl text-primaryColor 
+        font-semibold max-w-4xl text-center mx-auto"
         >
           Our 12 years of together have given us much to be proud of
         </p>

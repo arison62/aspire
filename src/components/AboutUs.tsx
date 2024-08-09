@@ -7,7 +7,7 @@ const AboutUs = () => {
       <div className="pt-28 w-fit mx-auto max-container">
         <div className="flex flex-wrap">
           <div className="max-w-md flex flex-col gap-12">
-            <p className="text-6xl font-medium text-white">About our company</p>
+            <p className="text-5xl sm:text-6xl font-semibold text-white">About our company</p>
             <a href="#" className="text-white flex items-center gap-2 group">
               <span>Learn More</span>
               <img
